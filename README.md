@@ -55,6 +55,3 @@ Everafter is developed for educational purposes and as a demonstration of Flutte
 
 Contact
 For inquiries or support, please contact kingsleyumenze@gmail.com
-
-Acknowledgments
-- Acknowledge any libraries, tutorials, or resources that were instrumental in the development of Everafter.
