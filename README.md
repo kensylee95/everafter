@@ -1,6 +1,3 @@
-[Note: some features might not be present because this app is still in development. Once complete this readMe would be updated]
-
-
 
 Overview
 Everafter is a Flutter-based mobile application designed to bring people together, facilitating connections that can potentially last a lifetime. With intuitive swipe-based interactions and robust matching algorithms, Everafter aims to create meaningful relationships in today's fast-paced world. This README provides comprehensive information about the app's features, installation instructions, and more.
